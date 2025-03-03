@@ -1,5 +1,6 @@
-CO2 Emissions by Vehicles Analysis
-This project focuses on analyzing CO2 emissions from vehicles to understand the factors influencing emissions and to provide insights for reducing environmental impact. The dataset includes various vehicle attributes such as engine size, fuel type, and fuel consumption, which are used to predict and analyze CO2 emissions.
+####CO2 Emissions by Vehicles Analysis
+ 
+ This project focuses on analyzing CO2 emissions from vehicles to understand the factors influencing emissions and to provide insights for reducing environmental impact. The dataset includes various vehicle attributes such as engine size, fuel type, and fuel consumption, which are used to predict and analyze CO2 emissions.
 
 Key Features
 Data Exploration: Visualizations and statistical analysis to explore relationships between vehicle features and CO2 emissions.
